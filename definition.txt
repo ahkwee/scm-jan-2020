@@ -1,0 +1,13 @@
+Main / master branch : contain a series of releases
+
+Develop brancj : contains a series of features
+Develop branch is created off Main / Master branch
+
+Feature branch: contains a series of request / funtion / specifications
+Feature branch is created off develop branch
+
+Hotfix branch: contaons a fix to a production / master branch
+Hotfix branch is created off porduction / main / master branch
+
+Release bracnh: contains a combo of develop and features branches
+Release branch is created off a develop branch
