@@ -8,4 +8,9 @@ Fourth quarant: R10K (deployment)
 -----------
 6 important dir
 
-hello worikd
+$codedir
+$confdir
+$ssldir
+$vardur
+default manifests
+default modules
