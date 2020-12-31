@@ -1,0 +1,6 @@
+There are 3 quarants that make up of puppet interaction:
+
+First quarant: Puppet (code)
+Second quarant: Hiera (data)
+Third quarant: source code control systems
+Fourth quarant: R10K (deployment)
