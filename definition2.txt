@@ -4,3 +4,6 @@ First quarant: Puppet (code)
 Second quarant: Hiera (data)
 Third quarant: source code control systems
 Fourth quarant: R10K (deployment)
+
+-----------
+6 important dir
