@@ -1,0 +1,15 @@
+update kanban board info
+
+SSO
+MRF
+
+create tasks to Mohammed on:
+training
+decommission of GPS
+
+create task to Vinod on
+training
+decommission o GPS
+
+create task to Tino on
+decommision of GPS
