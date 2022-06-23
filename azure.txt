@@ -9,3 +9,16 @@ Service Model:
 a) IAAS
 b) PAAS
 c) SAAAS
+
+
+git clone repo-URL
+git status - list up todate env
+git branch - list the branches
+git branch <feature-branch> - create a branch
+git checkout <feature-branch> - get into a working branch
+
+update/create a exisitng/new file
+git add .
+git commit -m "add something" 
+git push <feature_branch>
+
