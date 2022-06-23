@@ -1,0 +1,11 @@
+Azure:
+
+Deployment Model:
+a) Public cloud
+b) Private cloud
+c) Hybrid
+
+Service Model:
+a) IAAS
+b) PAAS
+c) SAAAS
