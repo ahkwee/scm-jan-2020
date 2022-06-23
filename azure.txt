@@ -8,7 +8,7 @@ c) Hybrid
 Service Model:
 a) IAAS
 b) PAAS
-c) SAAAS
+c) SAAS
 
 
 git clone repo-URL
@@ -20,5 +20,5 @@ git checkout <feature-branch> - get into a working branch
 update/create a exisitng/new file
 git add .
 git commit -m "add something" 
-git push <feature_branch>
+git push -u orign <feature_branch>
 
