@@ -1,0 +1,30 @@
+Azure:
+
+Deployment Model
+Service Model
+
+Azure Architecture:
+Management Group
+Subscription
+Resource Group
+Resource
+-------------
+Region
+Region-pairs
+Zone in Region
+--------------
+
+Sample:
+
+Management Group: - Ops team
+Subscription: SDLC / QA / Perf / Project Teams
+Resource Group: Environment / Organization / Dept
+               FACN14, FACN15,FACN16, FACN31, FACN51, FACN52
+               FACH72, FACH71, FACH70, FACH80 and FACH90
+Resource:
+
+FI + Batch + NWK/WKF + ISL + CXten + oracle + MQ
+FI + Batch + NWK/WKF + ISL + PBA + CXten + oracle + MQ
+CMU + SMT + BPA + SQL / Oracle
+Elements + ISL + Batch + TCS + oracle
+Fi + Batch + Pricer + Optum
