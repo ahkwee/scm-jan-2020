@@ -1,0 +1,6 @@
+Deployment model
+Service Model
+Azure architectural components
+
+Azure services:
+Compute Node | Networking | Storage | Services | Mobile | DB | AI | BD | DevOps
